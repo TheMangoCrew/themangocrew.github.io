@@ -1,5 +1,5 @@
-# themangocrew.github.io
-UN Website
+# Welcome to my Intro Card!
+*Made by TheMangoCrew (aka Mango)*
 
-hi peeps
-this is the United Nations website for the server Santoria, ruled by the epic cool fox god jjkay03
+This is an intro card for people, based on Santoria Networks, a server run by the youtuber jjkay03!
+[ERROR]
